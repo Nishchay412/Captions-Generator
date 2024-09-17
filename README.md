@@ -36,6 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Captions-Generator
 
-![diagram-export-17-9-2024-3_35_07-PM](https://github.com/user-attachments/assets/b84189b5-d773-43c9-ba32-db789bf0e3e6)
+
+![captions diagram](https://github.com/user-attachments/assets/3e207ae8-1426-4422-a44d-6ecbe4eb8a9f)
 
 
