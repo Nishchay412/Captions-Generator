@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Captions-Generator
-Here’s a detailed README you can use for your **Captions Generator** app on GitHub:
+
 
 ---
 
@@ -138,7 +138,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to update any specific details regarding your deployment or add additional sections if necessary!
 
 ![captions diagram](https://github.com/user-attachments/assets/3e207ae8-1426-4422-a44d-6ecbe4eb8a9f)
 
