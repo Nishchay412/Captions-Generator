@@ -115,16 +115,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Deployment
-
-The app can be deployed to platforms like [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/). Make sure to include your environment variables in the deployment settings to allow access to AWS services.
-
-### Steps for Deployment on Vercel:
-
-1. Push your project to a GitHub repository.
-2. Link your repository to Vercel.
-3. Set up the environment variables in the Vercel dashboard.
-4. Deploy your app!
 
 ## License
 
